@@ -1,0 +1,30 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+package com.ferra13671.bthack;
+
+import com.ferra13671.bthack.BTHACK$$$BLMYzGwAkHrgCQUEXfpMYeotCXLwwLGDseLugUZpZoLQPgqsphaxrZrDKXxNEOwA;
+import com.ferra13671.bthack.BTHACK$$$EeLsIFMVkbiTlNRyEXykxCLQVvFDqXaGDNicnjFPjngHyolkgooPjReZSqKambyh;
+import com.ferra13671.bthack.BTHACK$$$LGyZDICxRQOVfewcTZPnSNTO_NVomquWmOKKDqZopFa_VOehZlLwXLEnPZzBDkcI;
+import com.ferra13671.bthack.ItemUtils;
+import com.ferra13671.bthack.BTHACK$$$QKRBtGwUuWQNEYQJPUPpSnnPOOZeTuaGiLskKslaABKbqBLorkNBWsQZSnoBgDHc;
+import com.ferra13671.bthack.BTHACK$$$SSmuqFQIDm_ORZhEkQetOxiamoGjahYBcLqxNUbkXoccXhBmITjVCNyNwECtlYHf;
+
+public class BTHACK$$$OFNzolWxDFBcMmsPlyFHkOYZEDpzypUiRezHhuOnyibmcEFzHGElyowhrgJahFHZ
+extends BTHACK$$$BLMYzGwAkHrgCQUEXfpMYeotCXLwwLGDseLugUZpZoLQPgqsphaxrZrDKXxNEOwA
+implements BTHACK$$$EeLsIFMVkbiTlNRyEXykxCLQVvFDqXaGDNicnjFPjngHyolkgooPjReZSqKambyh {
+ private final BTHACK$$$SSmuqFQIDm_ORZhEkQetOxiamoGjahYBcLqxNUbkXoccXhBmITjVCNyNwECtlYHf uGIiz_fqdunOyrODxfRrGGMjsucqslAv;
+ private final BTHACK$$$LGyZDICxRQOVfewcTZPnSNTO_NVomquWmOKKDqZopFa_VOehZlLwXLEnPZzBDkcI WlJgBEbHIGxOvNSsSzxGaSjjiSVNlEnI;
+ private final int bSSWDPFbpJOoOQMRYoHAtoSwsnMVgQXB;
+ private boolean SHswihxjNDIvKllWUsUNbJnoMXDuapMB;
+
+ public BTHACK$$$OFNzolWxDFBcMmsPlyFHkOYZEDpzypUiRezHhuOnyibmcEFzHGElyowhrgJahFHZ(BTHACK$$$QKRBtGwUuWQNEYQJPUPpSnnPOOZeTuaGiLskKslaABKbqBLorkNBWsQZSnoBgDHc uIDDxrfgOK_lxPGKxdJBsVeOAOjeyIAi, BTHACK$$$SSmuqFQIDm_ORZhEkQetOxiamoGjahYBcLqxNUbkXoccXhBmITjVCNyNwECtlYHf eetAYyLEljqxgnXlKgtPpCgfTGGdIcxI, BTHACK$$$LGyZDICxRQOVfewcTZPnSNTO_NVomquWmOKKDqZopFa_VOehZlLwXLEnPZzBDkcI oyMNVqleqOZcapljntSTfKAAfZmWmPGj, int mvUhxHpbSBHIhDhIDVAUlorIBPwWgh_i) {
+ super(uIDDxrfgOK_lxPGKxdJBsVeOAOjeyIAi, 0.0f, 0.0f, ItemUtils.HnxsPvcEhabnBQUjsGTqJdSRZUsonILz.x, ItemUtils.HnxsPvcEhabnBQUjsGTqJdSRZUsonILz.y);
+ this.SHswihxjNDIvKllWUsUNbJnoMXDuapMB = false;
+ this.uGIiz_fqdunOyrODxfRrGGMjsucqslAv = eetAYyLEljqxgnXlKgtPpCgfTGGdIcxI;
+ this.WlJgBEbHIGxOvNSsSzxGaSjjiSVNlEnI = oyMNVqleqOZcapljntSTfKAAfZmWmPGj;
+ this.bSSWDPFbpJOoOQMRYoHAtoSwsnMVgQXB = mvUhxHpbSBHIhDhIDVAUlorIBPwWgh_i;
+ this.SHswihxjNDIvKllWUsUNbJnoMXDuapMB = (Boolean)eetAYyLEljqxgnXlKgtPpCgfTGGdIcxI.ytr_tZMUWJzHvFwgiQtXdbMKmlMxrwRo().apply(oyMNVqleqOZcapljntSTfKAAfZmWmPGj.EsPjGZlakHaOR_KzcjYwe_XfhgDomfZP());
+ }
+}
+

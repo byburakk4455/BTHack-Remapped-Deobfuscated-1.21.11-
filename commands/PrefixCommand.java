@@ -1,0 +1,15 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+package com.ferra13671.bthack;
+
+import com.ferra13671.bthack.CommandInfo;
+import com.ferra13671.bthack.Command;
+
+@CommandInfo(aliases={"prefix"})
+public class PrefixCommand
+extends Command {
+ public PrefixCommand() {
+ }
+}
+

@@ -1,0 +1,17 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+package com.ferra13671.bthack;
+
+import com.ferra13671.bthack.BTHACK$$$NuNNPjOPqcbXUEJZLNXtOPRESrn_GJvkmYBlruAaXPnAALIfvWBqGOxoCybUGYUU;
+import com.ferra13671.bthack.BTHACK$$$QKRBtGwUuWQNEYQJPUPpSnnPOOZeTuaGiLskKslaABKbqBLorkNBWsQZSnoBgDHc;
+import com.ferra13671.bthack.ColorSetting;
+import com.ferra13671.bthack.BTHACK$$$yPKxmDjcqXAxucYDrcTyyoSqyOUEPklXfyzuCDKYKvyiGHZVzDDpCUVSYFuhTtEt;
+
+public class BTHACK$$$RwCtAjKWihxawxmZvselXfAzJmVwrXkMKQTJyOzIubCovQms_nBvx_VtZBIUkeiP
+extends BTHACK$$$NuNNPjOPqcbXUEJZLNXtOPRESrn_GJvkmYBlruAaXPnAALIfvWBqGOxoCybUGYUU {
+ public BTHACK$$$RwCtAjKWihxawxmZvselXfAzJmVwrXkMKQTJyOzIubCovQms_nBvx_VtZBIUkeiP(BTHACK$$$QKRBtGwUuWQNEYQJPUPpSnnPOOZeTuaGiLskKslaABKbqBLorkNBWsQZSnoBgDHc uIDDxrfgOK_lxPGKxdJBsVeOAOjeyIAi, BTHACK$$$yPKxmDjcqXAxucYDrcTyyoSqyOUEPklXfyzuCDKYKvyiGHZVzDDpCUVSYFuhTtEt nAgCBtMrITaBXycWhmuHgwLRPagsLOtJ, ColorSetting biPCJJnrdcbmIdoskAIZilsnxasFSbNH, float CcBEPW_hgOCJDkYqINrDeNcNQsyxGNuD, float wYCtjdQGvZQxOCJsbFZmJlcRlgsLvxZT, float mUFjcogkZFo_XHliQeDydfAYjRBSfzcP) {
+ super(uIDDxrfgOK_lxPGKxdJBsVeOAOjeyIAi, nAgCBtMrITaBXycWhmuHgwLRPagsLOtJ, biPCJJnrdcbmIdoskAIZilsnxasFSbNH, CcBEPW_hgOCJDkYqINrDeNcNQsyxGNuD, wYCtjdQGvZQxOCJsbFZmJlcRlgsLvxZT, mUFjcogkZFo_XHliQeDydfAYjRBSfzcP);
+ }
+}
+

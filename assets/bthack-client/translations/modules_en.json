@@ -1,0 +1,477 @@
+{
+  "module": {
+    "enabled": "%s §aenabled§r!",
+    "disabled": "%s §cdisabled§r!",
+    "keybind": {
+      "keybind": "The key that the module will respond to.",
+      "bind-type": "Bind type:\n  Toggle — module toggles on/off after pressing the key.\n  Hold — module is active while the key is held.\n  HoldReversed — module is inactive while the key is held."
+    },
+
+    "click-ui": {
+      "": "Client graphical user interface."
+    },
+    "auto-save": {
+      "": "Automatically saves all configs.",
+
+      "delay": "Delay between saves.",
+      "saved": "all configs were automatically saved."
+    },
+
+    "aura": {
+      "": "Automatically attacks players and entities in range.",
+
+      "target-range": "The distance at which the aura can see the target.",
+      "attack-range": "Maximum attack distance of the aura.",
+      "fov": "Aura vision range in degrees.\nIf you don't look at the target within these\n degrees, the aura won't see it.",
+      "criticals-mode": "Critical attack mode:\n None — aura will not attack with crits.\n Only — aura will attack only with crits.\n Smart — aura will attack with crits if jump is held.",
+      "delay-mode": "Attack delay mode:\n Cooldown — delay is calculated based on the cooldown of the item in hand.\n Timer — delay is calculated based on a timer.",
+      "delay": "Timer delay (in seconds).",
+      "sprint-reset": "Stops sprinting before hitting to allow critical hits.",
+      "rotation-category": {
+        "": "Aura rotation settings.",
+
+        "smart-rotate": "Only starts rotation if the player is not looking at the target.",
+        "angle-step": "Maximum step in degrees that the rotation can turn per tick.",
+        "move-fix": "Adjusts player movement to match rotation, making movements legitimate."
+      },
+      "targets-category": {
+        "": "Aura target settings.",
+
+        "priority": "Target priority mode:\n Distance — aura selects the closest target.\n HealthMax — aura selects the target with the most health.\n HealthMin — aura selects the target with the least health.",
+        "enemy-priority": "Among all targets, the aura will always prioritize those added as enemies.",
+        "lock-target": "The first selected target will be locked as long as it is visible to the aura.",
+        "players": "Attack players.",
+        "friends": "Attack friends.",
+        "teammates": "Attack teammates.",
+        "invisibles": "Attack invisible players.",
+        "mobs": "Attack mobs.",
+        "hostiles": "Attack hostile mobs.",
+        "passives": "Attack passive mobs.",
+        "golems": "Attack golems."
+      },
+      "pause-if-category": {
+        "": "Aura pause condition settings.",
+
+        "eating": "Pause aura if the player is eating.",
+        "not-weapon-in-hand": "Pause aura if no weapon is in hand."
+      }
+    },
+    "auto-armor": {
+      "": "Automatically equip the best armor in your inventory.",
+
+      "score-category": {
+        "": "Score settings for specific armor attributes.",
+
+        "armor": "Number of score per unit of armor.",
+        "armor-toughness": "Number of score per unit of armor toughness.",
+        "knockback-resistance": "Number of score per unit of\nknockback resistance.",
+        "protection": "Score per enchantment level\n'Protection'.",
+        "blast-protection": "Score per enchantment level\n'Blast protection'.",
+        "thorns": "Score per enchantment level\n'Thorns'.",
+        "unbreaking": "Score per enchantment level\n'Unbreaking'.",
+        "mending": "Score for the enchantment\n'Mending'.",
+        "depth-strider": "Score per enchantment level\n'Depth strider'.",
+        "respiration": "Score per enchantment level\n'Respiration'.",
+        "feather-falling": "Score per enchantment level\n'Feather falling'.",
+        "binding-curse": "Score for the enchantment\n'Binding curse'.",
+        "vanishing-curse": "Score for the enchantment\n'Vanishing curse'."
+      },
+      "anti-binding-curse": "Prevents the equipping of any armor with the 'Binding curse' enchantment.",
+      "keep-elytra": "Prevents the equipping of the chestplate if elytra are equipped."
+    },
+    "auto-offhand": {
+      "": "Automatically takes need item into offhand.",
+
+      "replace-other": "Allow replacing of other items in the offhand.",
+      "item": "The item to be taken."
+    },
+    "no-friend-damage": {
+      "": "Prevents hitting friends."
+    },
+
+
+
+
+
+
+
+    "auto-2fa": {
+      "": "Automatically sends the login with 2fa command.",
+
+      "delay": "Delay before sending a command.",
+      "auto-disable": "Disabling the module after sending the command."
+    },
+    "auto-auth": {
+      "": "Automatically sends the registration/login command.",
+
+      "delay": "Delay before sending a command.",
+      "auto-disable": "Disabling the module after sending the command."
+    },
+    "auto-sign": {
+      "": "Automatically inserts text into sign.",
+
+      "close-screen": "Close the sign edit menu.",
+      "back-side": "Write the text on the back of the sign.",
+      "line-1": "The first line of sign.",
+      "line-2": "The second line of sign.",
+      "line-3": "The third line of sign.",
+      "line-4": "The fourth line of sign."
+    },
+    "elytra-swap": {
+      "": "Instantly puts on or takes off elytra."
+    },
+    "fast-use": {
+      "": "Allows faster use of certain items.",
+
+      "delay": "Delay between item uses (in ticks).",
+      "all": "Work for all items.",
+      "blocks": "Work for blocks.",
+      "projectiles": "Work for projectiles.",
+      "fishing-rod": "Work for fishing rod.",
+      "end-crystals": "Work for end crystals.",
+      "scissors": "Work for shears."
+    },
+    "free-camera": {
+      "": "Detaches the camera from the player, allowing free flight.",
+
+      "vertical-speed": "Vertical speed.",
+      "horizontal-speed": "Horizontal speed.",
+      "player-move-sync": "Adds the player's speed to the camera speed so the camera follows the player.",
+      "smooth-movement": "Smooth camera movement.",
+      "smooth-strength": "Smoothness strength.",
+      "raycast": "Raycast for the camera.",
+      "rotate": "Rotate towards the current camera raycast."
+    },
+    "inventory-tweaks": {
+      "": "Various inventory utilities.",
+
+      "shift-drag": "Instant movement of items when hovering\n over a slot while holding down LMB and shift.",
+      "group-move": "Instant movement all similar items with\n clicked item when pressing LMB, shift and ctrl.",
+      "auto-tool": "When starting to break a block, take\n the best item for it.\n (Supports GuiMove with Grim mode)",
+      "ore-priority": "Pickaxe enchantment priority when mining ore.\n None — none.\n Fortune — luck.\n SilkTouch — silk touch.",
+      "safe-ender-chests": "When breaking an ender chest, a pickaxe\n with the 'Silk Touch' enchantment will be selected.",
+      "hotbar-replenish": "Automatic replenish of items in the hotbar from the inventory.",
+      "min-items": "The minimum number of items that can be\n stored in a stack without replenish it.",
+      "inventory-cleaner": "Automatic throwing of various trash from inventory.",
+      "trash": "Items that will be considered as trash.",
+      "throw-delay": "Delay in milliseconds between throwing items."
+    },
+    "multi-task": {
+      "": "Allows you to use items from both hands at the same time.",
+
+      "attacking": "Ability to attack entities while using the item.\n§7(for example, when using a shield)"
+    },
+    "xcarry": {
+      "": "Allows storing four extra stacks of items in the crafting grid.",
+
+      "only-inventory": "Work only in the inventory."
+    },
+
+
+
+
+
+
+
+    "auto-sprint": {
+      "": "Automatically starts sprinting when moving.",
+
+      "in-water": "Allow sprinting in water."
+    },
+    "blink": {
+      "": "Delays packets on the client side to teleport instantly on the server side.",
+
+      "only-movement": "Only delay movement packets.",
+      "reset": "Sends previously delayed packets after a certain time.",
+      "reset-delay": "Time between resets."
+    },
+    "elytra-boost": {
+      "": "Accelerates you while flying with elytra.",
+
+      "max-speed": "Maximum boost speed.",
+      "boost-strength": "Boost strength.",
+      "y-motion-also": "Also enable Y-axis acceleration.",
+      "start-boost-pitch": "Starting pitch for boost.\n If you look above this value, you will not accelerate.",
+      "pause-if-blink": "Pause boost if you are in blink."
+    },
+    "elytra-recast": {
+      "": "Fast elytra flight by bouncing off the ground.",
+
+      "legit-recast": "More legitimate ground bounce.",
+      "blink": "Delay packets on the client side before bouncing off the ground.",
+      "blink-ticks": "How many ticks after bouncing packets will still be delayed.",
+      "change-pitch": "Changes the player's vertical look to a fixed value.",
+      "pitch": "Player's vertical look (in degrees)."
+    },
+    "freeze": {
+      "": "Allows you to hover in mid-air for some time.",
+
+      "only-movement": "Only delay movement packets.",
+      "reset": "Sends previously delayed packets after a certain time.",
+      "reset-delay": "Time between resets."
+    },
+    "gui-move": {
+      "": "Allows moving while inventory or other GUI is open.",
+
+      "grim": "Bypass for new Grim.",
+      "all": "Work in all GUIs.",
+      "chat": "Work in chat.",
+      "ui": "Work in client UI.",
+      "settings": "Work in settings."
+    },
+    "jump-delay": {
+      "": "Changes the delay between jumps.",
+
+      "delay": "Delay between jumps."
+    },
+    "safe-walk": {
+      "": "Automatically sneaks at block edges to prevent falling.\n§eMay work poorly with slabs or other non-standard sized blocks."
+    },
+    "timer": {
+      "": "Changes the tick speed on the client side.",
+
+      "speed": "Tick speed."
+    },
+
+
+
+
+
+
+
+    "ambience": {
+      "": "Changes the visual appearance of the world.",
+
+      "fog-category": {
+        "": "Fog settings.",
+
+        "distance-category": {
+          "": "Fog distance settings.",
+
+          "custom": "Custom fog distance.",
+          "start": "Fog start.",
+          "end": "Fog end."
+        },
+        "color-category": {
+          "": "Fog color settings.",
+
+          "custom": "Custom fog color.",
+          "color": "Fog color."
+        }
+      },
+      "sky-category": {
+        "": "Sky settings.",
+
+        "color-category": {
+          "": "Sky color settings.",
+
+          "custom": "Custom sky color.",
+          "color": "Sky color."
+        },
+        "stars-category": {
+          "": "Star settings.",
+
+          "custom": "Custom stars.",
+          "color-category": {
+            "": "Star color settings.",
+
+            "custom": "Custom star color.",
+            "color": "Star color."
+          },
+          "amount-category": {
+            "": "Star amount settings.",
+
+            "custom": "Custom star amount.",
+            "amount": "Number of stars."
+          },
+          "seed-category": {
+            "": "Star seed settings.",
+
+            "custom": "Custom star seed.",
+            "seed": "Star seed."
+          }
+        }
+      },
+      "world-time-category": {
+        "": "World time settings.",
+
+        "custom": "Custom world time.",
+        "world-time": "World time mode.\n  Day — day.\n  Night — night.\n  Morning — morning.\n  Sunset — sunset.\n  Custom — custom time.\n  Spin — time changes at a certain speed.",
+        "time": "Custom time.",
+        "spin-speed": "Time change speed."
+      },
+      "weather-category": {
+        "": "Weather settings.",
+
+        "custom": "Custom weather.",
+        "weather": "Weather mode."
+      }
+    },
+    "arrows": {
+      "": "Renders arrows pointing to player locations.",
+
+      "texture": "Arrow texture.",
+      "size": "Arrow size.",
+      "radius": "Radius of the circle on which arrows are displayed.",
+      "smooth-moving": "Smooth arrow movement.",
+      "smoothness": "Smoothness strength.",
+      "3d": "Tilts the arrow circle depending on your vertical look.",
+      "max-angle": "Maximum tilt angle of the arrow circle.",
+      "color": "Arrow color.",
+      "teams-color": "Team color display mode:\n  None — arrows will not show team colors.\n  YourTeam — arrows will only show your team's color.\n  AllTeams — arrows will show all teams' colors."
+    },
+    "block-outline": {
+      "": "Replaces the highlighted block outline with a custom one.",
+
+      "use-shape": "Use block shapes.",
+      "side-color": "Box side color.",
+      "outline-color": "Box outline color.",
+      "depth-test": "Respect depth when rendering.\n §eHighlighting may flicker if rendered far from the camera."
+    },
+    "breadcrumbs": {
+      "": "Renders a line where you have been before.",
+
+      "max-vertices": "Maximum number of vertices in the line.\n (proportional to the maximum number of stored player positions).",
+      "update-delay": "Delay between line updates (in ticks).",
+      "color": "Line color.",
+      "height": "Line height relative to calculation.",
+      "depth-test": "Respect depth when rendering."
+    },
+    "container-esp": {
+      "": "Highlights containers.",
+
+      "box-alpha": "Transparency of box sides.",
+      "bright-blend": "Color blending where overlapping boxes become brighter.",
+      "chests": "Highlight chests.",
+      "chest-color": "Color for chests.",
+      "ender-chests": "Highlight ender chests.",
+      "ender-chest-color": "Color for ender chests.",
+      "shulkers": "Highlight shulkers.",
+      "shulker-color": "Color for shulkers.",
+      "barrels": "Highlight barrels.",
+      "barrel-color": "Color for barrels."
+    },
+    "full-bright": {
+      "": "Makes the world a brighter.",
+
+      "mode": "Mode:\n  Gamma — changes the gamma. You can also\n   set any color.\n  Potion — applies night vision to the player.\n  BlockLight — changes the light level of blocks.",
+      "gamma-color": "Gamma color.",
+      "block-light": "Light level of blocks."
+    },
+    "hand-view": {
+      "": "Changes the position, rotation, and size of hands.",
+
+      "main-hand-category": {
+        "": "Settings for the main hand.",
+
+        "pos-x": "Position X.",
+        "pos-y": "Position Y.",
+        "pos-z": "Position Z.",
+        "rot-x": "Rotation X.",
+        "rot-y": "Rotation Y.",
+        "rot-z": "Rotation Z.",
+        "scale-x": "Scale X.",
+        "scale-y": "Scale Y.",
+        "scale-z": "Scale Z."
+      },
+      "off-hand-category": {
+        "": "Settings for the off hand.",
+
+        "pos-x": "Position X.",
+        "pos-y": "Position Y.",
+        "pos-z": "Position Z.",
+        "rot-x": "Rotation X.",
+        "rot-y": "Rotation Y.",
+        "rot-z": "Rotation Z.",
+        "scale-x": "Scale X.",
+        "scale-y": "Scale Y.",
+        "scale-z": "Scale Z."
+      },
+      "custom-fov": "Custom field of view for hands.",
+      "fov": "Field of view."
+    },
+    "nametags": {
+      "": "Replaces the rendering of player nametags with a custom one.",
+
+      "height": "Height of nametag rendering relative to the highest point of the hitbox.",
+      "blur": "Render blur behind nametags.",
+      "display-health": "Display player health.",
+      "display-ping": "Display player ping.",
+      "team-color": "Recolor the player's name to their team color."
+    },
+    "no-render": {
+      "": "Allows disabling the rendering of certain elements.",
+
+      "overlay-category": {
+        "": "Overlay settings.",
+
+        "hurt-camera": "Disable camera wobble when hit.",
+        "head-overlay": "Disable head item overlay.",
+        "powder-snow": "Disable powder snow effect.",
+        "fire": "Disable fire overlay.",
+        "water": "Disable water overlay.",
+        "in-wall-overlay": "Disable inside-block overlay.",
+        "boss-bar": "Disable boss bar rendering.",
+        "sleep": "Disable sleep overlay on bed.",
+        "portal": "Disable portal overlay.",
+        "vignette": "Disable vignette rendering.",
+        "spyglass": "Disable spyglass overlay.",
+        "nausea": "Disable nausea effect."
+      },
+      "world-category": {
+        "": "World settings.",
+
+        "explosions": "Disable explosion particles.",
+        "armor": "Disable armor rendering.",
+        "totem-animation": "Disable totem animation when used.",
+        "falling-blocks": "Disable falling block rendering.",
+        "armor-stands": "Disable armor stand rendering.",
+        "texture-rotation": "Disable block rotation changes (grass, stone, etc.)."
+      }
+    },
+    "player-esp": {
+      "": "Highlights players.",
+
+      "color-mode": "Box color display mode.",
+      "color": "Box color.",
+      "first-color": "First gradient color.",
+      "second-color": "Second gradient color.",
+      "gradient-speed": "Gradient change speed.",
+      "box-alpha": "Transparency of box sides.",
+      "gradient": "Display box sides as a gradient.",
+      "depth-test": "Respect depth when rendering."
+    },
+    "tooltips": {
+      "": "When hovering over a slot containing a shulker box, shows its contents."
+    },
+    "tracers": {
+      "": "Renders lines from the center of the screen to various entities.",
+
+      "players": "Render for players.",
+      "players-color": "Line color for players.",
+      "items": "Render for items.",
+      "items-color": "Line color for items.",
+      "mobs-category": {
+        "": "Mob rendering settings.",
+
+        "hostiles": "Render for hostile mobs.",
+        "hostiles-color": "Line color for hostile mobs.",
+        "passives": "Render for passive mobs.",
+        "passives-color": "Line color for passive mobs."
+      }
+    },
+    "xray": {
+      "": "Allows you rendering only necessary blocks.",
+
+      "blocks": "Blocks that xray should rendering.",
+      "fluids": "Liquids that xray should rendering."
+    },
+    "zoom": {
+      "": "Allows zooming the camera.",
+
+      "start-zoom": "Initial zoom.",
+      "zoom-step": "Zoom step when scrolling the mouse wheel.",
+      "smoothness": "Zoom smoothness strength."
+    }
+  }
+}

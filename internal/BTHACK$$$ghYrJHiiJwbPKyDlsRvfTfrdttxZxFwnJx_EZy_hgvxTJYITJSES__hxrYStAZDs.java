@@ -1,0 +1,35 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+package com.ferra13671.bthack;
+
+import com.ferra13671.bthack.BTHACK$$$RVqRXCQyLpkKTkslYNEYdEaCpjuSHsfzmmelseXShZCKQaQHgkuYnbplszDfUGRw;
+import com.ferra13671.bthack.BTHACK$$$kkVvVG_MFpqlhNhMcjghmcqUtRRXpNqTFnpDJZkMryixucywbOpHqOeJqhszVaGN;
+
+public final class BTHACK$$$ghYrJHiiJwbPKyDlsRvfTfrdttxZxFwnJx_EZy_hgvxTJYITJSES__hxrYStAZDs
+extends Record {
+ private final String jRqtEYzBgdRudTerBRVMpvLVDBEbkyGw;
+ private final String lBWfq_eshXhXJWYEDKGGelwciHfrjpdk;
+ private final String DOtGBfcSgGaAkacfluCBibWasOiazFEf;
+ private final String MZZdutnbGQXBCmVzKYNyNFOSrmnTkIiT;
+ private final String iAPCKeEzQIfEBRGhqKbjjbLeyTFsbUKA;
+ private final String juqAESokJINYwpTYYfTjDrmrnHZ_Jdhm;
+ private final Long PKetqKdHjb__ZCimdvGAQNPMlBJKyP_I;
+ private final BTHACK$$$kkVvVG_MFpqlhNhMcjghmcqUtRRXpNqTFnpDJZkMryixucywbOpHqOeJqhszVaGN fuqDrTjrzujW_IzPlUUcHvBYqgjZvBoE;
+ private final BTHACK$$$RVqRXCQyLpkKTkslYNEYdEaCpjuSHsfzmmelseXShZCKQaQHgkuYnbplszDfUGRw cmaAqgmdLOTmBkHUWbWtDvtIqK_YFcbR;
+ private final BTHACK$$$RVqRXCQyLpkKTkslYNEYdEaCpjuSHsfzmmelseXShZCKQaQHgkuYnbplszDfUGRw iKFyztKIMPNEkNHzNtnpFkuUiLEeKr_D;
+
+ public BTHACK$$$ghYrJHiiJwbPKyDlsRvfTfrdttxZxFwnJx_EZy_hgvxTJYITJSES__hxrYStAZDs(String UVhVovejdwnaNwgfNUtIyKE_rvkPQKSR, String VWpBEiIbYWxGugCOPxWmeaEHZhIVDUDO, String xfdsxDFIeeRgqKuYAWRFtGGrRBI_qsbi, String LIhtBEi_q_nVZ_yUMHnAwlPteOBeFQcl, String qTGEje_DgjhxSQdxdHMXJcFZzMFabajM, String _GGuiCpkeTYfXQevMqCnqqsCntbheuhQ, Long ZzUDHltUAvsjlDWnkVXAifuwu_AISMka, BTHACK$$$kkVvVG_MFpqlhNhMcjghmcqUtRRXpNqTFnpDJZkMryixucywbOpHqOeJqhszVaGN xLbVarMvnPS_OsMTnokFSQiQDxACDFfh, BTHACK$$$RVqRXCQyLpkKTkslYNEYdEaCpjuSHsfzmmelseXShZCKQaQHgkuYnbplszDfUGRw LKUsJzdPtqSzDbgelrhEUEinZZXnJnIV, BTHACK$$$RVqRXCQyLpkKTkslYNEYdEaCpjuSHsfzmmelseXShZCKQaQHgkuYnbplszDfUGRw rCXHvmnIXqytOpycThFbRSLVRTTCvgVR) {
+ this.jRqtEYzBgdRudTerBRVMpvLVDBEbkyGw = UVhVovejdwnaNwgfNUtIyKE_rvkPQKSR;
+ this.lBWfq_eshXhXJWYEDKGGelwciHfrjpdk = VWpBEiIbYWxGugCOPxWmeaEHZhIVDUDO;
+ this.DOtGBfcSgGaAkacfluCBibWasOiazFEf = xfdsxDFIeeRgqKuYAWRFtGGrRBI_qsbi;
+ this.MZZdutnbGQXBCmVzKYNyNFOSrmnTkIiT = LIhtBEi_q_nVZ_yUMHnAwlPteOBeFQcl;
+ this.iAPCKeEzQIfEBRGhqKbjjbLeyTFsbUKA = qTGEje_DgjhxSQdxdHMXJcFZzMFabajM;
+ this.juqAESokJINYwpTYYfTjDrmrnHZ_Jdhm = _GGuiCpkeTYfXQevMqCnqqsCntbheuhQ;
+ this.PKetqKdHjb__ZCimdvGAQNPMlBJKyP_I = ZzUDHltUAvsjlDWnkVXAifuwu_AISMka;
+ this.fuqDrTjrzujW_IzPlUUcHvBYqgjZvBoE = xLbVarMvnPS_OsMTnokFSQiQDxACDFfh;
+ this.cmaAqgmdLOTmBkHUWbWtDvtIqK_YFcbR = LKUsJzdPtqSzDbgelrhEUEinZZXnJnIV;
+ this.iKFyztKIMPNEkNHzNtnpFkuUiLEeKr_D = rCXHvmnIXqytOpycThFbRSLVRTTCvgVR;
+ }
+}
+

@@ -1,0 +1,59 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+package com.ferra13671.bthack;
+
+import com.ferra13671.bthack.BTHACK$$$AntasdXHQPBkBQQsMxLf_MfrKpPmwpseihkySuaYsKBGMNfFtLsEZydwzUceGcgz;
+import com.ferra13671.bthack.BTHACK$$$CGsbjNgDskydcVJFuBinGqdFcrcopdLDarOeFLSItyAbLLrxbxjUia__szyoymnf;
+import com.ferra13671.bthack.BTHACK$$$FfebhUVkJgSvEKvzZRVKlViGBExBt_uWcBEOKhrJbfYhhAXPkwvSbVYnZerAiBto;
+import com.ferra13671.bthack.BTHACK$$$GrQdrSvIKUJbYEXJhiBppBArZOLtzGAnKVNooDmxigqFxcWIMKhWZwLUhILbKcvF;
+import com.ferra13671.bthack.BTHACK$$$VtsDXxsRxpGLnJZdwuRbvfMuYLechOqihAGW_KMIhXKHSZrawbLX_qziTZGQMOsY;
+import com.ferra13671.bthack.BTHACK$$$Y_MMpMgdgZtdAoMfAxVsoJmUUVJqvLpvKCHBXhvhzNxVz_ddZLubBXWWxTpxGBnF;
+import com.ferra13671.bthack.BTHACK$$$fjazemCfEWfEPovdrYzpdZFYUtUQjFVaaRIuBdSVUBbxKkVimEczjJI_z_mlaAgJ;
+import com.ferra13671.bthack.BTHACK$$$pBJhfYnDSujSzoxmAVWkrOQgQmiSgwxoFIitJDDSHYIjTdaGCmbOkZjKgW_KieJK;
+import com.ferra13671.bthack.BTHACK$$$rdbNdwmbCcWVhpPUaMPYTdAuVoRkgKdNeteIAqRuNTPfSZSmDjSprpBeSqfgiDtL;
+import com.ferra13671.bthack.BTHACK$$$sHhMmqrdEwifJpRCKqZGcDXVaOeqfDYJztclZaiGtYseKunDxGRlRdeacMhiOAWv;
+import com.ferra13671.bthack.BTHACK$$$vDAJxRgkdDMjvogHBEcBXZxrhetIsqRcQLtMfmDGWWSzhpwZMyunoWUXjxUmFZCv;
+import java.util.ArrayList;
+import java.util.List;
+
+public final class BTHACK$$$aidZakbYqLxoWq_yqYnGrIBPJtQslfvqggJWJBKEkgLXymOQZFMgbsyGJOldoNAp {
+ private static final List jQvxIHu_ekW_WbePzASQE_oBcUZhTMMS;
+ public static final BTHACK$$$GrQdrSvIKUJbYEXJhiBppBArZOLtzGAnKVNooDmxigqFxcWIMKhWZwLUhILbKcvF CxXkubMdSlKsusrQnbnQMlNMOrkuqGkB;
+ public static final BTHACK$$$fjazemCfEWfEPovdrYzpdZFYUtUQjFVaaRIuBdSVUBbxKkVimEczjJI_z_mlaAgJ V_QpXczumrFOBwnEadABRERyGBzGsqfa;
+ public static final BTHACK$$$AntasdXHQPBkBQQsMxLf_MfrKpPmwpseihkySuaYsKBGMNfFtLsEZydwzUceGcgz sbTtt_QbhcCHNbTl_L_EwQilblhVWMKu;
+ public static final BTHACK$$$vDAJxRgkdDMjvogHBEcBXZxrhetIsqRcQLtMfmDGWWSzhpwZMyunoWUXjxUmFZCv OAFidtJEHjwYhlSLVahAISgIMrHUhjQN;
+ public static final BTHACK$$$sHhMmqrdEwifJpRCKqZGcDXVaOeqfDYJztclZaiGtYseKunDxGRlRdeacMhiOAWv cameraPos;
+ public static final BTHACK$$$rdbNdwmbCcWVhpPUaMPYTdAuVoRkgKdNeteIAqRuNTPfSZSmDjSprpBeSqfgiDtL KXVgfOxUcmNzmgjDnWSnRXDKVAaWueHm;
+ public static final BTHACK$$$pBJhfYnDSujSzoxmAVWkrOQgQmiSgwxoFIitJDDSHYIjTdaGCmbOkZjKgW_KieJK sDhB_ZYBTdbnKmoMPLmzBBAzPoTyQw_u;
+ public static final BTHACK$$$CGsbjNgDskydcVJFuBinGqdFcrcopdLDarOeFLSItyAbLLrxbxjUia__szyoymnf XgFWFYfOGlJdREdmiKqqDUJHDfohuqOG;
+ public static final BTHACK$$$VtsDXxsRxpGLnJZdwuRbvfMuYLechOqihAGW_KMIhXKHSZrawbLX_qziTZGQMOsY LXZxhdJdP_ydzFqDIinpVFqiXEYVYTCH;
+
+ private BTHACK$$$aidZakbYqLxoWq_yqYnGrIBPJtQslfvqggJWJBKEkgLXymOQZFMgbsyGJOldoNAp() {
+ throw new UnsupportedOperationException("This is a utility class and cannot be instantiated");
+ }
+
+ private static BTHACK$$$FfebhUVkJgSvEKvzZRVKlViGBExBt_uWcBEOKhrJbfYhhAXPkwvSbVYnZerAiBto oToQpNYpLObIsQTuDatjrbRcixmHRAN_(BTHACK$$$FfebhUVkJgSvEKvzZRVKlViGBExBt_uWcBEOKhrJbfYhhAXPkwvSbVYnZerAiBto tvBrNztHZJiqdTXHNxlzAWXKtlEYwzXe) {
+ jQvxIHu_ekW_WbePzASQE_oBcUZhTMMS.addLast(tvBrNztHZJiqdTXHNxlzAWXKtlEYwzXe);
+ return tvBrNztHZJiqdTXHNxlzAWXKtlEYwzXe;
+ }
+
+ public static List fBIoGlvxaUCUkXUTesANHnVb_YrS_TmI() {
+ return jQvxIHu_ekW_WbePzASQE_oBcUZhTMMS;
+ }
+
+ static {
+ jQvxIHu_ekW_WbePzASQE_oBcUZhTMMS = new ArrayList();
+ CxXkubMdSlKsusrQnbnQMlNMOrkuqGkB = (BTHACK$$$GrQdrSvIKUJbYEXJhiBppBArZOLtzGAnKVNooDmxigqFxcWIMKhWZwLUhILbKcvF)BTHACK$$$aidZakbYqLxoWq_yqYnGrIBPJtQslfvqggJWJBKEkgLXymOQZFMgbsyGJOldoNAp.oToQpNYpLObIsQTuDatjrbRcixmHRAN_(new BTHACK$$$GrQdrSvIKUJbYEXJhiBppBArZOLtzGAnKVNooDmxigqFxcWIMKhWZwLUhILbKcvF());
+ V_QpXczumrFOBwnEadABRERyGBzGsqfa = (BTHACK$$$fjazemCfEWfEPovdrYzpdZFYUtUQjFVaaRIuBdSVUBbxKkVimEczjJI_z_mlaAgJ)BTHACK$$$aidZakbYqLxoWq_yqYnGrIBPJtQslfvqggJWJBKEkgLXymOQZFMgbsyGJOldoNAp.oToQpNYpLObIsQTuDatjrbRcixmHRAN_(new BTHACK$$$fjazemCfEWfEPovdrYzpdZFYUtUQjFVaaRIuBdSVUBbxKkVimEczjJI_z_mlaAgJ());
+ sbTtt_QbhcCHNbTl_L_EwQilblhVWMKu = (BTHACK$$$AntasdXHQPBkBQQsMxLf_MfrKpPmwpseihkySuaYsKBGMNfFtLsEZydwzUceGcgz)BTHACK$$$aidZakbYqLxoWq_yqYnGrIBPJtQslfvqggJWJBKEkgLXymOQZFMgbsyGJOldoNAp.oToQpNYpLObIsQTuDatjrbRcixmHRAN_(new BTHACK$$$AntasdXHQPBkBQQsMxLf_MfrKpPmwpseihkySuaYsKBGMNfFtLsEZydwzUceGcgz());
+ OAFidtJEHjwYhlSLVahAISgIMrHUhjQN = (BTHACK$$$vDAJxRgkdDMjvogHBEcBXZxrhetIsqRcQLtMfmDGWWSzhpwZMyunoWUXjxUmFZCv)BTHACK$$$aidZakbYqLxoWq_yqYnGrIBPJtQslfvqggJWJBKEkgLXymOQZFMgbsyGJOldoNAp.oToQpNYpLObIsQTuDatjrbRcixmHRAN_(new BTHACK$$$vDAJxRgkdDMjvogHBEcBXZxrhetIsqRcQLtMfmDGWWSzhpwZMyunoWUXjxUmFZCv());
+ cameraPos = (BTHACK$$$sHhMmqrdEwifJpRCKqZGcDXVaOeqfDYJztclZaiGtYseKunDxGRlRdeacMhiOAWv)BTHACK$$$aidZakbYqLxoWq_yqYnGrIBPJtQslfvqggJWJBKEkgLXymOQZFMgbsyGJOldoNAp.oToQpNYpLObIsQTuDatjrbRcixmHRAN_(new BTHACK$$$sHhMmqrdEwifJpRCKqZGcDXVaOeqfDYJztclZaiGtYseKunDxGRlRdeacMhiOAWv());
+ KXVgfOxUcmNzmgjDnWSnRXDKVAaWueHm = (BTHACK$$$rdbNdwmbCcWVhpPUaMPYTdAuVoRkgKdNeteIAqRuNTPfSZSmDjSprpBeSqfgiDtL)BTHACK$$$aidZakbYqLxoWq_yqYnGrIBPJtQslfvqggJWJBKEkgLXymOQZFMgbsyGJOldoNAp.oToQpNYpLObIsQTuDatjrbRcixmHRAN_(new BTHACK$$$rdbNdwmbCcWVhpPUaMPYTdAuVoRkgKdNeteIAqRuNTPfSZSmDjSprpBeSqfgiDtL());
+ sDhB_ZYBTdbnKmoMPLmzBBAzPoTyQw_u = (BTHACK$$$pBJhfYnDSujSzoxmAVWkrOQgQmiSgwxoFIitJDDSHYIjTdaGCmbOkZjKgW_KieJK)BTHACK$$$aidZakbYqLxoWq_yqYnGrIBPJtQslfvqggJWJBKEkgLXymOQZFMgbsyGJOldoNAp.oToQpNYpLObIsQTuDatjrbRcixmHRAN_(new BTHACK$$$pBJhfYnDSujSzoxmAVWkrOQgQmiSgwxoFIitJDDSHYIjTdaGCmbOkZjKgW_KieJK());
+ XgFWFYfOGlJdREdmiKqqDUJHDfohuqOG = (BTHACK$$$CGsbjNgDskydcVJFuBinGqdFcrcopdLDarOeFLSItyAbLLrxbxjUia__szyoymnf)BTHACK$$$aidZakbYqLxoWq_yqYnGrIBPJtQslfvqggJWJBKEkgLXymOQZFMgbsyGJOldoNAp.oToQpNYpLObIsQTuDatjrbRcixmHRAN_(new BTHACK$$$CGsbjNgDskydcVJFuBinGqdFcrcopdLDarOeFLSItyAbLLrxbxjUia__szyoymnf());
+ LXZxhdJdP_ydzFqDIinpVFqiXEYVYTCH = (BTHACK$$$VtsDXxsRxpGLnJZdwuRbvfMuYLechOqihAGW_KMIhXKHSZrawbLX_qziTZGQMOsY)BTHACK$$$aidZakbYqLxoWq_yqYnGrIBPJtQslfvqggJWJBKEkgLXymOQZFMgbsyGJOldoNAp.oToQpNYpLObIsQTuDatjrbRcixmHRAN_(new BTHACK$$$VtsDXxsRxpGLnJZdwuRbvfMuYLechOqihAGW_KMIhXKHSZrawbLX_qziTZGQMOsY());
+ jQvxIHu_ekW_WbePzASQE_oBcUZhTMMS.forEach(BTHACK$$$Y_MMpMgdgZtdAoMfAxVsoJmUUVJqvLpvKCHBXhvhzNxVz_ddZLubBXWWxTpxGBnF::UtBqXntbqxwriUAwYTdZZiyRTzZwAVgt);
+ }
+}
+

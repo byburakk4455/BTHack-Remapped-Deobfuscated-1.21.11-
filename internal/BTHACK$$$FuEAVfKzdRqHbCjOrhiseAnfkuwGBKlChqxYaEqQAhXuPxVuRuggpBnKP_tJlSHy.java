@@ -1,0 +1,27 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+package com.ferra13671.bthack;
+
+import com.ferra13671.bthack.BTHACK$$$BLMYzGwAkHrgCQUEXfpMYeotCXLwwLGDseLugUZpZoLQPgqsphaxrZrDKXxNEOwA;
+import com.ferra13671.bthack.BTHACK$$$QKRBtGwUuWQNEYQJPUPpSnnPOOZeTuaGiLskKslaABKbqBLorkNBWsQZSnoBgDHc;
+import com.ferra13671.bthack.BTHACK$$$cGgUknfXNGljrQQmKvXSbiXRIZeqThIIRWWWHmDraRgjJJRIoKxopjpYuoiPvMnL;
+import com.ferra13671.bthack.BTHACK$$$rSJyvKCGKoNHEqdzMHXkiWSjtpNhGUTmkNcDs_THkpAWOXxUdYmAd_RujBVxcpIX;
+import com.ferra13671.bthack.BTHACK$$$yPKxmDjcqXAxucYDrcTyyoSqyOUEPklXfyzuCDKYKvyiGHZVzDDpCUVSYFuhTtEt;
+
+public class BTHACK$$$FuEAVfKzdRqHbCjOrhiseAnfkuwGBKlChqxYaEqQAhXuPxVuRuggpBnKP_tJlSHy
+extends BTHACK$$$BLMYzGwAkHrgCQUEXfpMYeotCXLwwLGDseLugUZpZoLQPgqsphaxrZrDKXxNEOwA {
+ private final Enum value;
+ private final BTHACK$$$yPKxmDjcqXAxucYDrcTyyoSqyOUEPklXfyzuCDKYKvyiGHZVzDDpCUVSYFuhTtEt UhxMiGBBMxfbDqzTVyuzCLgbJzAmwBia;
+ private final BTHACK$$$rSJyvKCGKoNHEqdzMHXkiWSjtpNhGUTmkNcDs_THkpAWOXxUdYmAd_RujBVxcpIX KMicEUWRJzfyDjVLnnFc_ISKzWSeWzVt;
+ private final BTHACK$$$cGgUknfXNGljrQQmKvXSbiXRIZeqThIIRWWWHmDraRgjJJRIoKxopjpYuoiPvMnL PQAUYaRAmEjhybVZIibFVXdqWWNYyYOZ;
+
+ public BTHACK$$$FuEAVfKzdRqHbCjOrhiseAnfkuwGBKlChqxYaEqQAhXuPxVuRuggpBnKP_tJlSHy(BTHACK$$$QKRBtGwUuWQNEYQJPUPpSnnPOOZeTuaGiLskKslaABKbqBLorkNBWsQZSnoBgDHc uIDDxrfgOK_lxPGKxdJBsVeOAOjeyIAi, Enum qvskhUzpAOnhxoWvaBdUtmiEyyzIZPmS, BTHACK$$$yPKxmDjcqXAxucYDrcTyyoSqyOUEPklXfyzuCDKYKvyiGHZVzDDpCUVSYFuhTtEt nAgCBtMrITaBXycWhmuHgwLRPagsLOtJ, BTHACK$$$rSJyvKCGKoNHEqdzMHXkiWSjtpNhGUTmkNcDs_THkpAWOXxUdYmAd_RujBVxcpIX HrIIEZJBmKOSSylQJvjtfjsEthJcrfPn, BTHACK$$$cGgUknfXNGljrQQmKvXSbiXRIZeqThIIRWWWHmDraRgjJJRIoKxopjpYuoiPvMnL bGmOAvLHSaXDUjFctdDNaaqBrHxvpuox, float CcBEPW_hgOCJDkYqINrDeNcNQsyxGNuD, float wYCtjdQGvZQxOCJsbFZmJlcRlgsLvxZT) {
+ super(uIDDxrfgOK_lxPGKxdJBsVeOAOjeyIAi, CcBEPW_hgOCJDkYqINrDeNcNQsyxGNuD, wYCtjdQGvZQxOCJsbFZmJlcRlgsLvxZT, 223.0f, 29.0f);
+ this.value = qvskhUzpAOnhxoWvaBdUtmiEyyzIZPmS;
+ this.UhxMiGBBMxfbDqzTVyuzCLgbJzAmwBia = nAgCBtMrITaBXycWhmuHgwLRPagsLOtJ;
+ this.KMicEUWRJzfyDjVLnnFc_ISKzWSeWzVt = HrIIEZJBmKOSSylQJvjtfjsEthJcrfPn;
+ this.PQAUYaRAmEjhybVZIibFVXdqWWNYyYOZ = bGmOAvLHSaXDUjFctdDNaaqBrHxvpuox;
+ }
+}
+

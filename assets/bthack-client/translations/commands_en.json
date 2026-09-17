@@ -1,0 +1,67 @@
+{
+  "command": {
+    "fake-player": {
+      "successfully": {
+        "": "fake player with name '%s' successfully",
+
+        "spawned": "${id = $<parent>} spawned!",
+        "removed": "${id = $<parent>} removed!"
+      },
+      "updated": {
+        "name": "fake player name updated to '%s'!",
+        "max-health": "fake player max health updated to '%s'!",
+        "health": "fake player health updated to '%s'!",
+        "position": "fake player position updated to '%s'!",
+        "invulnerability": "fake player invulnerability updated to '%s'!",
+        "auto-totem": "fake player auto-totem updated to '%s'!"
+      },
+      "copied": {
+        "": "fake player has successfully copied your",
+
+        "inventory": "${id = $<parent>} inventory!",
+        "rotation": "${id = $<parent>} rotation!",
+        "position": "${id = $<parent>} position!",
+        "health": "${id = $<parent>} health!"
+      }
+    },
+    "prefix.changed": "command prefix changed to '%s'!",
+    "socials": {
+      "friend": {
+        "added": {
+          "": "friend with name '%s' added!",
+          "with-alias": "friend with name '%s' and alias '%s' added!"
+        },
+        "removed": "friend with name '%s' removed!",
+        "changed-alias": "alias for friend with name '%s' changed to '%s'!"
+      },
+      "enemy": {
+        "added": {
+          "": "enemy with name '%s' added!",
+          "with-alias": "enemy with name '%s' and alias '%s' added!"
+        },
+        "removed": "enemy with name '%s' removed!",
+        "changed-alias": "alias for enemy with name '%s' changed to '%s'!"
+      }
+    },
+    "auto-auth": {
+      "added": "added password for name '%s'!",
+      "removed": "removed password for name '%s'!",
+      "cleared": "cleared all passwords!"
+    },
+    "auto-2fa": {
+      "added": "added 2fa key for name '%s'!",
+      "removed": "removed 2fa key for name '%s'!",
+      "cleared": "cleared all 2fa keys!"
+    },
+    "config": {
+      "modules": {
+        "saved": "modules saved in config with name '%s'!",
+        "loaded": "modules loaded from config with name '%s'!"
+      },
+      "hud": {
+        "saved": "hud saved in config with name '%s'!",
+        "loaded": "hud loaded from config with name '%s'!"
+      }
+    }
+  }
+}

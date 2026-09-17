@@ -1,0 +1,22 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+package com.ferra13671.bthack;
+
+import com.ferra13671.bthack.BTHACK$$$AxGIUzBVGyxQbbwsCkVhYzDoCjFPPTZaaLwYHAZzjXJsEWZdDpPPsLKDHUhIyrNH;
+import com.ferra13671.bthack.BTHACK$$$OIQOFSvbOUpImhCnXCXqWNxEjCNRikOgEqvfmGukK_FRGkIRJBOUyzsTvmsbvRQg;
+import com.ferra13671.bthack.BTHACK$$$XlsWjvAFpzIZDVi_nqvamSgCOnzMCyqyUgyWyIErykLasuInwbqLtkafqJSppVuM;
+import com.ferra13671.bthack.BTHACK$$$b_YgUcbzlXWacKRKoYeXPIQXmclfJjUYYFRkfrXGclBqAtHFIDLNxULoOL_XMhkx;
+
+public class BTHACK$$$DzhuuMo_gBkjWMJhPQrBovrRyFthrgPJuQKKPwDFkzbVxTSajNWLkZzUhVT_RGUL
+extends BTHACK$$$OIQOFSvbOUpImhCnXCXqWNxEjCNRikOgEqvfmGukK_FRGkIRJBOUyzsTvmsbvRQg {
+ private final BTHACK$$$b_YgUcbzlXWacKRKoYeXPIQXmclfJjUYYFRkfrXGclBqAtHFIDLNxULoOL_XMhkx RxljpjcaSwZBVQMIRYRqoJNOXotcluBJ;
+ private final BTHACK$$$AxGIUzBVGyxQbbwsCkVhYzDoCjFPPTZaaLwYHAZzjXJsEWZdDpPPsLKDHUhIyrNH hsTZwZoWiNoA_cRPXRCoFZPxbuxcuepb;
+
+ public BTHACK$$$DzhuuMo_gBkjWMJhPQrBovrRyFthrgPJuQKKPwDFkzbVxTSajNWLkZzUhVT_RGUL(BTHACK$$$b_YgUcbzlXWacKRKoYeXPIQXmclfJjUYYFRkfrXGclBqAtHFIDLNxULoOL_XMhkx tvBrNztHZJiqdTXHNxlzAWXKtlEYwzXe) {
+ super(BTHACK$$$XlsWjvAFpzIZDVi_nqvamSgCOnzMCyqyUgyWyIErykLasuInwbqLtkafqJSppVuM.yDKkcsBAOIBHaSmGczdAuWunZFGiRJoB);
+ this.RxljpjcaSwZBVQMIRYRqoJNOXotcluBJ = tvBrNztHZJiqdTXHNxlzAWXKtlEYwzXe;
+ this.hsTZwZoWiNoA_cRPXRCoFZPxbuxcuepb = new BTHACK$$$AxGIUzBVGyxQbbwsCkVhYzDoCjFPPTZaaLwYHAZzjXJsEWZdDpPPsLKDHUhIyrNH(this.RxljpjcaSwZBVQMIRYRqoJNOXotcluBJ.UiQdtGrGwLeLnuGQFUQppYUxGHxzZCiT());
+ }
+}
+

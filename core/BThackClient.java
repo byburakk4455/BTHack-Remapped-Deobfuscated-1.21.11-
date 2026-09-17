@@ -1,0 +1,100 @@
+/*
+ * Decompiled with CFR 0.152.
+ * 
+ * Could not load the following classes:
+ * com.ferra13671.bthack.loader.api.ClientLoader
+ * com.ferra13671.bthack.loader.api.logger.Logger
+ * com.ferra13671.bthack.loader.api.metadata.ClientEntrypoint
+ */
+package com.ferra13671.bthack;
+
+import com.ferra13671.bthack.BTHACK$$$GsDRQjthVcoVxoyylCDNnMcxYGAdxipiyOlNZmCGAvFYehlNYuegQTMTmmbkcXBE;
+import com.ferra13671.bthack.BTHACK$$$JGRyVfyiwQprTtFvjeybsMqIMbN_yIAignzAtmIClEdgUVOetXQxtMnlVaySiPdl;
+import com.ferra13671.bthack.BTHACK$$$KhMPzxuWqKQBPkPPNHHBpvZClQzqpoUxGGpqLxKmPsHoAytsGqnJAQhqpTDveEEa;
+import com.ferra13671.bthack.BTHACK$$$LxPplMCOvUXqzMgBOXqlULOTworudSVmbQRotMVmkJLOujfBQXKHehLadUNB__JW;
+import com.ferra13671.bthack.BTHACK$$$OobeIDGS_AktwALNMJRlOMuFTCQzCYpMZlaqfjiS_bcQI_kbEyWfZNSOyiPPWIJ_;
+import com.ferra13671.bthack.BTHACK$$$QKRBtGwUuWQNEYQJPUPpSnnPOOZeTuaGiLskKslaABKbqBLorkNBWsQZSnoBgDHc;
+import com.ferra13671.bthack.BTHACK$$$QPqIYnVnNArJiTuwuorbpAubWXtBRltZZwVrMtTiGvEudaMzpmuZITzacKKrzlhO;
+import com.ferra13671.bthack.BTHACK$$$QYrxJTtXENLJBNQLPvEcjNVMsBNvuPuAmR__wgibSldRqxtAVPOBBzxowRjRRCiP;
+import com.ferra13671.bthack.BTHACK$$$Qi_wye_CCkLimPogMAc_kYjiiBhrFozqpwq_ssPLxOpGvThkBJKPWOPCfsuFjipH;
+import com.ferra13671.bthack.BTHACK$$$QveNOGgOfnlddUbtLbrxdLmLnByKkfCvfEYzPyfHcNJG_uXYrHEPKMNp_OWOXzER;
+import com.ferra13671.bthack.BTHACK$$$RspxeaBSHhhTBMWKYRsHNMRNSLNLuPcnVnanYUGa_OddphLfIuReIBlNbcUjFtij;
+import com.ferra13671.bthack.BTHACK$$$SCRgKgwbkFKYfNUhtoceVkWhyHM_CzIBVagEnj_FwNfIrK_GFKHXwIYtbCXlHcos;
+import com.ferra13671.bthack.BTHACK$$$TZPmpLTAOzyYIcajCruYXCSTpz_dINZmHTqlysLIoNHlZVy_eevxNjuAoS_xSvaV;
+import com.ferra13671.bthack.IMinecraft;
+import com.ferra13671.bthack.BTHACK$$$XlsWjvAFpzIZDVi_nqvamSgCOnzMCyqyUgyWyIErykLasuInwbqLtkafqJSppVuM;
+import com.ferra13671.bthack.BTHACK$$$ZDkQNcjktBVNTnIWwPAYRrOySHDIRfSDoLvcOdCxhRmcGP_flGRVvnJTNagEttCz;
+import com.ferra13671.bthack.BTHACK$$$ZLYZzOZPIOyHkjLYHsKQKFjtwFRuWjmwRPewkEnkuStnEtFAVQGFAnPlbDzvbIAz;
+import com.ferra13671.bthack.BTHACK$$$ZvUfWD_XzIwgTmsdkloVnmcDMsIOGrgjEu_AIHATdvJvRlikmwwERlPGcBKZDuHT;
+import com.ferra13671.bthack.BTHACK$$$cr_YFXeDFQNmDclNBNqkRBWIxDYlcWJgStKHQwXRJbwpwMrHqGsKjfWIiiiZFBgd;
+import com.ferra13671.bthack.BTHACK$$$feVwZPmHCfOTIqRnnlbtQVUmqMHUCQcOaRTEusFpGGyXSbeDkeLRheoQFAmRguOj;
+import com.ferra13671.bthack.BTHACK$$$hGDLXqDORZhaUAUhOGPDeYSZvWNyOPduERgHuQaQ_WFxTBTTpfPOZjWiiIWQwrsW;
+import com.ferra13671.bthack.BTHACK$$$kpMvIUDqtsmmuUASEUemTtpYQTxgzFxHTqyyAMmMXZuoGbHR_qiwEqlywNqUGJJM;
+import com.ferra13671.bthack.BTHACK$$$mjSLqAHrXWxkZMi_HUyRK_ZmieRgLgUhPy_aOtJtxOCiDoGcTBjztFfOuWSWRhDA;
+import com.ferra13671.bthack.BTHACK$$$nIvvLRyxFVFqUVqsudDkaGGaKubR_UFRhIZNocCKvKSnONgqvTSqDrbxBNKDfTMc;
+import com.ferra13671.bthack.BTHACK$$$oBshxId_OVhUlqp__rDaNzkputeByqkIdJIgoGEiHAfrfMhBaTpVMAYdOylaNP_A;
+import com.ferra13671.bthack.BTHACK$$$sDikePYVPbdkyAEnieUbTIOlVymIogVvFzFoYvfvQ_zldoOrClNtOEiPu_NHclVm;
+import com.ferra13671.bthack.BTHACK$$$uEhAIiFHSVp_BaVXVEHetLMVpvyqdYtTua_oOpYfsXeQmSptWEfyHQaoodzePdBz;
+import com.ferra13671.bthack.loader.api.ClientLoader;
+import com.ferra13671.bthack.loader.api.logger.Logger;
+import com.ferra13671.bthack.loader.api.metadata.ClientEntrypoint;
+import java.io.File;
+import java.util.concurrent.ExecutorService;
+
+public class BThackClient
+implements ClientEntrypoint,
+IMinecraft {
+ public static final String FYwLVNjLHBbcxVCPsJO_eChfRpEWINMe = "configs";
+ public static final String zqdXQNTZJoKbgeiOZKQHqszBKsFSbcOh = "socials";
+ public static final String IcZHtVxkwnjoKBUuJCBKjkuYuQTJdErU = "*";
+ private static BThackClient wIgvzgyX_fKeNnNoPJeneVgbqSFxaPIz;
+ private boolean PNzopaLYbAWEsXrhKnegOnijLihOCXES;
+ private final BTHACK$$$Qi_wye_CCkLimPogMAc_kYjiiBhrFozqpwq_ssPLxOpGvThkBJKPWOPCfsuFjipH CzhTnbr_LYpYApfdAvzwwuMEWciRQCv_;
+ private final Logger snjipSuY_ASXKZAPldPyROVv_yLPcsSM;
+ private final BTHACK$$$QKRBtGwUuWQNEYQJPUPpSnnPOOZeTuaGiLskKslaABKbqBLorkNBWsQZSnoBgDHc NicbWikkr_IcDMnwclFnAgJeZkUUtGuq;
+ private final BTHACK$$$LxPplMCOvUXqzMgBOXqlULOTworudSVmbQRotMVmkJLOujfBQXKHehLadUNB__JW GRPwSVOcUPdfqtdxbnAx_HpoOxSAXyQp;
+ private ExecutorService qaDNsUOoPWMDstpzTctlCMvqlBnN_UVI;
+ private BTHACK$$$SCRgKgwbkFKYfNUhtoceVkWhyHM_CzIBVagEnj_FwNfIrK_GFKHXwIYtbCXlHcos JtEIyJsxAndENMCmtEzGUZUIyiubHxBp;
+ private BTHACK$$$QPqIYnVnNArJiTuwuorbpAubWXtBRltZZwVrMtTiGvEudaMzpmuZITzacKKrzlhO wpYXqPTBJzixVfrIPuv_ULWmPyoMGjbH;
+ private BTHACK$$$ZvUfWD_XzIwgTmsdkloVnmcDMsIOGrgjEu_AIHATdvJvRlikmwwERlPGcBKZDuHT aeerBNSnKhSorisqZOyqSYgvmEqGQFnq;
+ private BTHACK$$$KhMPzxuWqKQBPkPPNHHBpvZClQzqpoUxGGpqLxKmPsHoAytsGqnJAQhqpTDveEEa nlPrgfMaUHnNDTPtFhLlBNZXlUuzrPXp;
+ private BTHACK$$$QveNOGgOfnlddUbtLbrxdLmLnByKkfCvfEYzPyfHcNJG_uXYrHEPKMNp_OWOXzER SrhiYyyMoAvlQxTQVhdiUyzppCltSnfs;
+ private BTHACK$$$sDikePYVPbdkyAEnieUbTIOlVymIogVvFzFoYvfvQ_zldoOrClNtOEiPu_NHclVm ZoeumAn_YYXweMGpsLQAsytjNfkYKESB;
+ private BTHACK$$$hGDLXqDORZhaUAUhOGPDeYSZvWNyOPduERgHuQaQ_WFxTBTTpfPOZjWiiIWQwrsW uhTlMjtfFBGrtirRwmVSSRAOPDouavEA;
+ private BTHACK$$$kpMvIUDqtsmmuUASEUemTtpYQTxgzFxHTqyyAMmMXZuoGbHR_qiwEqlywNqUGJJM RwfjPnMOwkfNYZvkAPoqFnhArLYrDFHu;
+ private BTHACK$$$ZLYZzOZPIOyHkjLYHsKQKFjtwFRuWjmwRPewkEnkuStnEtFAVQGFAnPlbDzvbIAz uXCsVqZOuimAvLTMTO_kktmcMXSrEIxq;
+ private BTHACK$$$oBshxId_OVhUlqp__rDaNzkputeByqkIdJIgoGEiHAfrfMhBaTpVMAYdOylaNP_A EsAGOtfFFnhgVHqRveqXpFXUGEI_aBTF;
+ private BTHACK$$$JGRyVfyiwQprTtFvjeybsMqIMbN_yIAignzAtmIClEdgUVOetXQxtMnlVaySiPdl gQYELlOTHgmOmvvwvGbldsHlGKlfpqOB;
+ private BTHACK$$$TZPmpLTAOzyYIcajCruYXCSTpz_dINZmHTqlysLIoNHlZVy_eevxNjuAoS_xSvaV TNlLNXtljqvaJanFSjNjyogvfPyouBtb;
+ private BTHACK$$$cr_YFXeDFQNmDclNBNqkRBWIxDYlcWJgStKHQwXRJbwpwMrHqGsKjfWIiiiZFBgd CUBeKCvmODtNimNQmHxLnLFjFJQobRdL;
+ private BTHACK$$$uEhAIiFHSVp_BaVXVEHetLMVpvyqdYtTua_oOpYfsXeQmSptWEfyHQaoodzePdBz xEcWwQOfuBOrzOMEAhuXiHf_XoPlvtlX;
+ private BTHACK$$$GsDRQjthVcoVxoyylCDNnMcxYGAdxipiyOlNZmCGAvFYehlNYuegQTMTmmbkcXBE lNMNtHjfELTfJpuJlHzaViWBKPIJfHVq;
+ private BTHACK$$$nIvvLRyxFVFqUVqsudDkaGGaKubR_UFRhIZNocCKvKSnONgqvTSqDrbxBNKDfTMc wGgaCu_ETjfQUQrpMwwAujOtJdhDsMMv;
+ private BTHACK$$$QYrxJTtXENLJBNQLPvEcjNVMsBNvuPuAmR__wgibSldRqxtAVPOBBzxowRjRRCiP rirRzCAzbImHhBaR_ffZWSIxPbCWvHGj;
+ private BTHACK$$$ZDkQNcjktBVNTnIWwPAYRrOySHDIRfSDoLvcOdCxhRmcGP_flGRVvnJTNagEttCz rfmbcsCqGxaVkRFfIgJZCfMtubPyaZNt;
+ private BTHACK$$$OobeIDGS_AktwALNMJRlOMuFTCQzCYpMZlaqfjiS_bcQI_kbEyWfZNSOyiPPWIJ_ arfLbRSEjBnmdjdJMIdVLozDZD_yIJXj;
+ private BTHACK$$$feVwZPmHCfOTIqRnnlbtQVUmqMHUCQcOaRTEusFpGGyXSbeDkeLRheoQFAmRguOj qshB_yfWpWZVALgyNDPUzLkh_KTJUFWz;
+ private BTHACK$$$feVwZPmHCfOTIqRnnlbtQVUmqMHUCQcOaRTEusFpGGyXSbeDkeLRheoQFAmRguOj soIFWsmmBtQFXTuxCrshIsHEoBsMEKJS;
+
+ public static File CzkQTXrtMAcNKOEMCBa_LYPrYhmBSRXc(String hwA_trUiSvuqKfsiSVASgwKygvtHdBPH, boolean cStoYChlWtjvg_jcQeJOPaFAXwWKnBZb) {
+ return ClientLoader.getInstance().getResourceManager().getOrCreateFileNullable(hwA_trUiSvuqKfsiSVASgwKygvtHdBPH, cStoYChlWtjvg_jcQeJOPaFAXwWKnBZb);
+ }
+
+ public BThackClient() {
+ this.PNzopaLYbAWEsXrhKnegOnijLihOCXES = false;
+ this.CzhTnbr_LYpYApfdAvzwwuMEWciRQCv_ = new BTHACK$$$Qi_wye_CCkLimPogMAc_kYjiiBhrFozqpwq_ssPLxOpGvThkBJKPWOPCfsuFjipH("command-prefix", String.class, BTHACK$$$XlsWjvAFpzIZDVi_nqvamSgCOnzMCyqyUgyWyIErykLasuInwbqLtkafqJSppVuM.E_fUsLAlWyzOROULRUAVHfxPFnJCreIt, IcZHtVxkwnjoKBUuJCBKjkuYuQTJdErU);
+ this.snjipSuY_ASXKZAPldPyROVv_yLPcsSM = ClientLoader.getInstance().getOrCreateLogger("BThack");
+ this.NicbWikkr_IcDMnwclFnAgJeZkUUtGuq = new BTHACK$$$mjSLqAHrXWxkZMi_HUyRK_ZmieRgLgUhPy_aOtJtxOCiDoGcTBjztFfOuWSWRhDA();
+ this.GRPwSVOcUPdfqtdxbnAx_HpoOxSAXyQp = BTHACK$$$LxPplMCOvUXqzMgBOXqlULOTworudSVmbQRotMVmkJLOujfBQXKHehLadUNB__JW.HXqQgKHtwtiHRsxIIVOpjrnPQs_OTuah("BThack main stage");
+ this.JtEIyJsxAndENMCmtEzGUZUIyiubHxBp = new BTHACK$$$RspxeaBSHhhTBMWKYRsHNMRNSLNLuPcnVnanYUGa_OddphLfIuReIBlNbcUjFtij();
+ }
+
+ public static BThackClient getInstance() {
+ return wIgvzgyX_fKeNnNoPJeneVgbqSFxaPIz;
+ }
+
+ public static boolean nullCheck() {
+ return BThackClient.mc.field_1724 == null || BThackClient.mc.field_1687 == null;
+ }
+}
+
